@@ -50,7 +50,7 @@ tags:
 - Company
 - Artificial Intelligence
 - Telecommunications
-- Data-Center
+- Data Center
 - Infrastructure
 - Network Management
 - Automation
@@ -64,6 +64,7 @@ tags_raw:
 - Network Management
 - Automation
 - Sustainability
+- Data-Center
 apis: []
 maintainers:
 - FN: Kin Lane
